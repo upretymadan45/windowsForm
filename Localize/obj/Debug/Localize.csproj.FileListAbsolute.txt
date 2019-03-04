@@ -1,0 +1,13 @@
+C:\Users\madan\source\repos\Localize\Localize\bin\Debug\Localize.exe.config
+C:\Users\madan\source\repos\Localize\Localize\bin\Debug\Localize.exe
+C:\Users\madan\source\repos\Localize\Localize\bin\Debug\Localize.pdb
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.Form1.resources
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.Properties.Resources.resources
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.csproj.GenerateResource.cache
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.csproj.CoreCompileInputs.cache
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.exe
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.pdb
+C:\Users\madan\source\repos\Localize\Localize\bin\Debug\ne-NP\Localize.resources.dll
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.Form1.ne-NP.resources
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\ne-NP\Localize.resources.dll
+C:\Users\madan\source\repos\Localize\Localize\obj\Debug\Localize.csprojAssemblyReference.cache
